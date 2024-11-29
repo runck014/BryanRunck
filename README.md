@@ -1,4 +1,4 @@
-# Bryan Runck
+# About
 I'm an applied scientist interested in building and using geospatial science to improve decisions in agriculture and conservation. As an applied scientist, I primarily care about whether solutions work and can scale up with good engineering and operations.
 
 # Web Migration Update
